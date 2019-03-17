@@ -1,4 +1,4 @@
-from conference import conference_scheduler
+import conference_scheduler
 
 if __name__ == '__main__':
     conference_scheduler
