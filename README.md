@@ -17,9 +17,9 @@ To Run the scheduler code:
 
 Below are the commands to use to run the Scheduler.
 
- python .\__main__.py
+ python __main__.py
  
    or
  
- python .\conference_scheduler.py
+ python conference_scheduler.py
 
